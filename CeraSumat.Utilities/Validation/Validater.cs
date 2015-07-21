@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using CeraSumat.Utilities.Parser;
+using CeraSumat.Utilities.TypeParser;
 
 namespace CeraSumat.Utilities.Validation
 {

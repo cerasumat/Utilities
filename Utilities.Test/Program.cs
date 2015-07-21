@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Schema;
-using CeraSumat.Utilities.Parser;
+using CeraSumat.Utilities.TypeParser;
 using CeraSumat.Utilities.Validation;
 
 namespace Utilities.Test
@@ -24,9 +20,11 @@ namespace Utilities.Test
         }
         static void Main(string[] args)
         {
+            var list = new List<int> {1,2,3,4} as IEnumerable<int>;
+            list.ForEach(x => Console.WriteLine(x));
+            list=list.ForEach(v => v + 1);
+
             var s = new Student {Id = 4, Name = "Jiak"};
-            //object t = (object)s;
-            //Student d = t.To<Student>();
             s.Validate();
         }
     }
