@@ -1,0 +1,7 @@
+E:\GitCode\Utilities\CeraSumat.Utilities\bin\Debug\CeraSumat.Utilities.dll
+E:\GitCode\Utilities\CeraSumat.Utilities\bin\Debug\CeraSumat.Utilities.pdb
+E:\GitCode\Utilities\CeraSumat.Utilities\bin\Debug\Newtonsoft.Json.dll
+E:\GitCode\Utilities\CeraSumat.Utilities\bin\Debug\Newtonsoft.Json.xml
+E:\GitCode\Utilities\CeraSumat.Utilities\obj\Debug\CeraSumat.Utilities.dll
+E:\GitCode\Utilities\CeraSumat.Utilities\obj\Debug\CeraSumat.Utilities.pdb
+E:\GitCode\Utilities\CeraSumat.Utilities\obj\Debug\CeraSumat.Utilities.csprojResolveAssemblyReference.cache

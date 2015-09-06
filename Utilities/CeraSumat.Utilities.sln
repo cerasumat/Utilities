@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeraSumat.Utilities", "CeraSumat.Utilities\CeraSumat.Utilities.csproj", "{B971B663-AD9C-4C82-A932-865BBE8399B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeraSumat.UtilitiesTests", "CeraSumat.UtilitiesTests\CeraSumat.UtilitiesTests.csproj", "{D26C01EA-0DA6-41F3-B1E4-7AE99E08375C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B971B663-AD9C-4C82-A932-865BBE8399B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B971B663-AD9C-4C82-A932-865BBE8399B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B971B663-AD9C-4C82-A932-865BBE8399B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B971B663-AD9C-4C82-A932-865BBE8399B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26C01EA-0DA6-41F3-B1E4-7AE99E08375C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26C01EA-0DA6-41F3-B1E4-7AE99E08375C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26C01EA-0DA6-41F3-B1E4-7AE99E08375C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26C01EA-0DA6-41F3-B1E4-7AE99E08375C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

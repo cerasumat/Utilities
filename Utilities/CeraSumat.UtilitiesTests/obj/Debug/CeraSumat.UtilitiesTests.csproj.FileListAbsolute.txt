@@ -1,0 +1,11 @@
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\obj\Debug\CeraSumat.UtilitiesTests.csprojResolveAssemblyReference.cache
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\CeraSumat.UtilitiesTests.dll
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\CeraSumat.UtilitiesTests.pdb
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\CeraSumat.Utilities.dll
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\Newtonsoft.Json.dll
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\CeraSumat.Utilities.pdb
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\Newtonsoft.Json.xml
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\obj\Debug\CeraSumat.UtilitiesTests.dll
+E:\GitCode\Utilities\CeraSumat.UtilitiesTests\obj\Debug\CeraSumat.UtilitiesTests.pdb
